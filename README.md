@@ -28,3 +28,9 @@ Here are some ideas to get you started:
 </div>
 
 <!-- [![Hminle's GitHub stats](https://github-readme-stats.vercel.app/api?username=hminle)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--
+![hminle's Stats](https://github-readme-stats.vercel.app/api?username=hminle&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+
+![hminle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hminle&theme=monokai&hide_border=false)
+
+![hminle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hminle&theme=monokai&show_icons=true&hide_border=false&layout=compact) -->
