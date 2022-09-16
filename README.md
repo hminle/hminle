@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 ![hminle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hminle&theme=monokai&show_icons=true&hide_border=false&layout=compact) -->
 
 <div align="left">
-    <img src="example.svg" width="400" height="400" alt="">
+    <img src="template_stats.svg" width="400" height="400" alt="">
 </div>
